@@ -1,1 +1,1 @@
-priny("print")
+print("print")
